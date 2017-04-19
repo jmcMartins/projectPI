@@ -61,6 +61,13 @@
                         </div>
 
                         <div class="form-group">
+                            <label for="level" class="col-md-4 control-label">Admin</label>
+
+                            <div class="col-md-6">
+                                <input id="level" type="checkbox" class="form-control" name="level">
+                            </div>
+                        </div>
+                        <div class="form-group">
                             <div class="col-md-6 col-md-offset-4">
                                 <button type="submit" class="btn btn-primary">
                                     Register
